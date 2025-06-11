@@ -1,0 +1,7 @@
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\obj\Debug\K24GD-03.csproj.AssemblyReference.cache
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\obj\Debug\K24GD-03.csproj.CoreCompileInputs.cache
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\bin\Debug\K24GD-03.exe.config
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\bin\Debug\K24GD-03.exe
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\bin\Debug\K24GD-03.pdb
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\obj\Debug\K24GD-03.exe
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\K24GD-03\obj\Debug\K24GD-03.pdb
