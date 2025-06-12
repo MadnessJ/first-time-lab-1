@@ -1,0 +1,8 @@
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\obj\Debug\random num.csproj.AssemblyReference.cache
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\obj\Debug\random num.csproj.CoreCompileInputs.cache
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\bin\Debug\random num.exe.config
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\bin\Debug\random num.exe
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\bin\Debug\random num.pdb
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\obj\Debug\random num.exe
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\obj\Debug\random num.pdb
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\random num\obj\Debug\random num.exe.config
