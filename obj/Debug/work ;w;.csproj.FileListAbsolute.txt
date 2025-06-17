@@ -1,0 +1,7 @@
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\bin\Debug\work ;w;.exe.config
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\bin\Debug\work ;w;.exe
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\bin\Debug\work ;w;.pdb
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\obj\Debug\work ;w;.csproj.AssemblyReference.cache
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\obj\Debug\work ;w;.csproj.CoreCompileInputs.cache
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\obj\Debug\work ;w;.exe
+C:\Users\ZENBOOK\Documents\Lập Trình Hướng Đối Tượng\Bai tap\work ;w;\obj\Debug\work ;w;.pdb
